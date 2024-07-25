@@ -27,3 +27,9 @@ public class FactorialUsingRecursion {
         }
     }
 }
+
+
+
+Enter a non-negative integer:
+5
+Factorial of 5 is: 120
